@@ -11,5 +11,5 @@ sigma = 0.01;
 % Probability of length being smaller than 3.9 == Destruction
 pDest = normcdf(3.9,mu,sigma)
 
-% Lower limit in order only the 1% of the rails get destroyed
+% Lower limit in order only 1% (at most) of the rails get destroyed
 limit = norminv(0.01, mu, sigma)
