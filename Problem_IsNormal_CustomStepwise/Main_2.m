@@ -1,5 +1,3 @@
-%% Data Analysis Exam 2021-2022
-% Kavelidis Frantzis Dimitrios,     AEM:9351
 
 %% Clearing
 clear
