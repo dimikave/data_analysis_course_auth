@@ -1,5 +1,4 @@
-%% Data Analysis Exam 2021-2022
-% Kavelidis Frantzis Dimitrios,     AEM:9351
+
 
 function h_boot = Is_Normal(X,alpha,B)
 %       
