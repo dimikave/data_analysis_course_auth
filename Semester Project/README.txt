@@ -1,27 +1,17 @@
-# Καβελίδης Φραντζής Δημήτριος (9351) - 5 Ζητήματα 
-(Ζητώ να βαθμολογηθούν τα ζητήματα 3-7 ή και όλα όσα γίναν, δηλαδή 1-9)
-# Δημητριάδης Δημήτριος (9562) - 9 Ζητήματα
-## Εργασία Εξαμήνου / Data Analysis - Ανάλυση Δεδομένων
+# Semester Project Data Analysis - Covid19 Positivity Rate Topics
+This folder contains the files for the semester project of Data Analysis Course
 
-Σε αυτόν τον φάκελο υπάρχουν τα παραδοτέα της εργασίας εξαμήνου
-για το μάθημα Ανάλυση Δεδομένων για το Group 12.
-
-Ειδικότερα, τα αρχεία έχουν τη μορφή
+Specifically, the files have the following format
 - Group12ExeXProgY
 - Group12ExeXFuncY
-όπου Χ, Υ ο αριθμός του ζητήματος και Υ ο αριθμός του προγράμματος/συνάρτησης που 
-χρησιμοποιήθηκε για το συγκεκριμένο ζήτημα.
+where Χ the number of the topic and Υ the number of the program or function used for the 
+specific topic.
 
-Επιπλέον, υπάρχουν τα αρχεία:
-- BelgiumDeaths.xlsx: Φιλτραρισμένο αρχείο που περιέχει μόνο τους θανάτους στο Βέλγιο
-- EuropeanCountries.xlsx: Αρχείο με τις Ευρωπαϊκές χώρες.
-- FullEodyData.xlsx: Αρχείο του ΕΟΔΥ για τα ελληνικά δεδομένα
-- ECDC-7Days-Testing.xlsx: Φιλτραρισμένο αρχείο που περιέχει μόνο τα national για τις 
-			   χώρες της Ευρώπης (στοιχεία).
-- Exe3.mat 		: Αρχείο με διαβασμένα δεδομένα από τα παραπάνω αρχεία στο
-			  matlab για σκοπούς ταχύτερης εκτέλεσης του κώδικα.
-- Project2021.pdf	: Εκφώνηση της εργασίας.
+Moreover:
+- BelgiumDeaths.xlsx		: Filtered file containing only the deaths in Belgium.
+- EuropeanCountries.xlsx	: File with the european countries used.
+- FullEodyData.xlsx		: Greek Health Organization data.
+- ECDC-7Days-Testing.xlsx	: Fitered file to contain only the subsection "national".
+- Exe3.mat 			: Data already loaded for speed purposes.
+- Project2021.pdf		: Description of topics.
 
-
-Group 12
-8/2/2022
