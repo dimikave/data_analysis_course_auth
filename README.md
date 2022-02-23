@@ -1,2 +1,2 @@
 # Data-Analysis-Course-AUTh
-Homework Assignments for the AUTh Course "Data Analysis" 2021
+Semester Project and Homework Assignments for the AUTh Course "Data Analysis" 2021
