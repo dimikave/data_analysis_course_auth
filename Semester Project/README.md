@@ -1,7 +1,7 @@
 # Semester Project Data Analysis - Covid19 Positivity Rate Topics
-This folder contains the files for the semester project of Data Analysis Course
+This folder contains the files for the semester project of Data Analysis Course.
 
-Specifically, the files have the following format
+Specifically, the files have the following format:
 - Group12ExeXProgY
 - Group12ExeXFuncY
 where Χ the number of the topic and Υ the number of the program or function used for the 
