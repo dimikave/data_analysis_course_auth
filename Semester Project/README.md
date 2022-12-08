@@ -10,6 +10,7 @@ Specifically, the topics are about:
 - Deaths prediction using regression
 - Cross-validated models for deaths prediction
 
+Thorough explanation of topics can be found on  Project2021.pdf (writen in Greek).
 
 ## Files description:
 This folder contains the files for the semester project of Data Analysis Course.
