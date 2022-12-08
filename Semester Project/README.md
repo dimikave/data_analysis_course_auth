@@ -1,4 +1,4 @@
-# Semester Project Data Analysis - Covid19 Positivity Rate Topics
+# Semester Project Data Analysis - Covid Positivity Rate Data Analysis in Europe
 This folder contains the files for the semester project of Data Analysis Course.
 
 Specifically, the files have the following format:
