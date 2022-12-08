@@ -1,4 +1,16 @@
 # Semester Project Data Analysis - Covid Positivity Rate Data Analysis in Europe
+
+## Project Description:
+This is a semester project on a variety of topics around Covid and its Positivity Rate (PR) in Europe during different periods.
+Specifically, the topics are about:
+- PR Distribution in different European countries
+- Statistical Tests around the distributions' difference
+- Statical significance
+- Correlation between European countries' PR
+- Deaths prediction using regression
+- Cross-validated models for deaths prediction
+
+
 This folder contains the files for the semester project of Data Analysis Course.
 
 Specifically, the files have the following format:
